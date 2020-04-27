@@ -5,6 +5,11 @@ WS2812FX - More Blinken for your LEDs!
 
 This library features a variety of blinken effects for the WS2811/WS2812/NeoPixel LEDs. It is meant to be a drop-in replacement for the Adafruit NeoPixel library with additional features.
 
+Modification :
+-----------
+- Added new Example sketch "WS2812FX-ESP32_webinterface_Dark_color_wheel" based on default sketch esp8266_webinterface. New Sketch will run on ESP32.
+- Tested on WEMOS LOLIN32.
+
 Features
 --------
 
